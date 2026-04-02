@@ -40,4 +40,5 @@ In the digital payments industry, transaction failures represent a double loss: 
 ---
 
 ## 💡 Why I Did This
-**I built this project to demonstrate the transition from data support to Data Analytics. By applying business logic (KPIs like Success %) to raw logs, I've shown how SQL can be used to drive technical and financial decision-making in a fintech environment.
+
+I built this project to demonstrate the transition from data support to Data Analytics. By applying business logic (KPIs like Success %) to raw logs, I've shown how SQL can be used to drive technical and financial decision-making in a fintech environment.
